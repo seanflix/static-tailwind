@@ -1,6 +1,6 @@
 # Project Description
 
-This repository features a web project created using HTML, CSS, and JavaScript (utilizing the Tailwind CSS framework). 
+This repository features a test task project created using HTML, CSS, and JavaScript (utilizing the Tailwind CSS framework). 
 
 The project includes some interactive sections with a responsive design, additional cards, a carousel/slider feature, and unique external links (dummy links) for each card. 
 
